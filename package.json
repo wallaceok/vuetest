@@ -19,10 +19,10 @@
   },
   "devDependencies": {
     "babel-eslint": "8",
-    "backpack-core": "^0.7.0",
+    "backpack-core": "^0.8.4",
     "eslint": "4.x",
     "eslint-config-standard": "^10.2.1",
-    "eslint-loader": "^1.9.0",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-html": "^2.0.3",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-node": "^4.2.2",
